@@ -1,2 +1,6 @@
-# mock-rest-api
-A mock REST API description for API Gateway
+# CREATE A MOCK REST API WITH API GATEWAY
+
+This repository groups artefacts used on the Youtube video: 
+
+## Project Overview
+<img src="./slides.001.png"  />
